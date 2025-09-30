@@ -5,6 +5,8 @@ description: "Solutions to a problem set on functional analysis, periodic functi
 file: /courses/18-102-introduction-to-functional-analysis-spring-2009/f787aea500a02e0b38ec8290ee9c2775_MIT18_102s09_sol_pset9.pdf
 file_size: 232001
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Solutions to a problem set on functional analysis.
 file: /courses/18-102-introduction-to-functional-analysis-spring-2009/6fd9687a0a11a5a0b0d177e02b296a5a_MIT18_102s09_sol_pset04.pdf
 file_size: 128792
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

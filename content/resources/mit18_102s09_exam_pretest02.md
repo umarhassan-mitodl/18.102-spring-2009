@@ -4,6 +4,8 @@ description: Preparatory questions for a test on functional analysis.
 file: /courses/18-102-introduction-to-functional-analysis-spring-2009/ac78858f7cb5f6393ce626a11692a015_MIT18_102s09_exam_pretest02.pdf
 file_size: 169380
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
