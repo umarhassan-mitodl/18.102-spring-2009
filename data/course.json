@@ -26,7 +26,6 @@
     "website": "18-102-introduction-to-functional-analysis-spring-2009"
   },
   "course_title": "Introduction to Functional Analysis",
-  "hide_download": true,
   "course_description": "This is a undergraduate course. It will cover normed spaces, completeness, functionals, Hahn-Banach theorem, duality, operators; Lebesgue measure, measurable functions, integrability, completeness of L-p spaces; Hilbert space; compact, Hilbert-Schmidt and trace class operators; as well as spectral theorem.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "96189f5f-beec-55e4-b701-8f68540e4738",
     "website": "18-102-introduction-to-functional-analysis-spring-2009"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams",
